@@ -1,4 +1,4 @@
-import './App.css';
+import './index';
 import NavBar from "./NavBar"
 
 import Main from "./Main"
