@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/My-First-React-App-My-Journal/static/css/main.e314eca5.css",
+    "main.js": "/My-First-React-App-My-Journal/static/js/main.8b76ebc5.js",
+    "static/media/location-star.png": "/My-First-React-App-My-Journal/static/media/location-star.7fef78c13523f504ffc6.png",
+    "index.html": "/My-First-React-App-My-Journal/index.html",
+    "main.e314eca5.css.map": "/My-First-React-App-My-Journal/static/css/main.e314eca5.css.map",
+    "main.8b76ebc5.js.map": "/My-First-React-App-My-Journal/static/js/main.8b76ebc5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e314eca5.css",
+    "static/js/main.8b76ebc5.js"
+  ]
+}
